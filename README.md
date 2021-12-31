@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="Wenxuan Yang" src="./assets/avatar.png" width=100 />
+<img alt="Wenxuan Yang" src="./assets/avatar.jpg" width=100 />
 
 # Hi, this is Yiyang Sun :wave:
 
