@@ -32,13 +32,13 @@ I love Back End technologys. :heart:
 
 ![JAVA](https://img.shields.io/badge/java-java-yellow)
 ![.NET](https://img.shields.io/badge/C%23-.Net-green)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![MySql](https://img.shields.io/badge/DataBase-MySql-brightgreen)
 
 </p>
 
 <p>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 
 </p>
