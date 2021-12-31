@@ -2,7 +2,7 @@
 
 <img alt="Wenxuan Yang" src="./assets/avatar.jpg" width=100 />
 
-# Hi, this is Yiyang Sun :wave:
+# Hi, this is Wenxuan Yang :wave:
 
 <p>
 
@@ -12,48 +12,38 @@
 
 </p>
 
-## Introduction :raised_hands:
+## Introduction(介绍) :raised_hands:
 
-Student of [@UESTC](https://github.com/uestcer). :school:
+Student of Nanyang Institute Of Technology(南阳理工学院). :school:
 
-Major in Software Engineering. :man_technologist:
+Microsoft technology and Applications（微软技术与应用）. :man_technologist:
 
 I love open source spirit. :heart:
 
 Hope to make more friends in open source projects. :eyes:
 
-## Orientation :dart:
+## Orientation(方向) :dart:
 
 I love coding. :heart:
 
-I love Front End technologys. :heart:
+I love Back End technologys. :heart:
 
 <p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-java-yellow)
+![.NET](https://img.shields.io/badge/C%23-.Net-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![MySql](https://img.shields.io/badge/DataBase-MySql-brightgreen)
 
 </p>
 
 <p>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
-![React](https://img.shields.io/badge/-React-282c34?logo=react)
-![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
 
 </p>
 
-<p>
-
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Rollup](https://img.shields.io/badge/-Rollup-ef3335?logo=rollup.js&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-
-</p>
-
-## Projects :computer:
+## Projects(项目) :computer:
 
 [![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=config-router)](https://github.com/syy11cn/config-router)
 
@@ -67,9 +57,9 @@ I love Front End technologys. :heart:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syy11cn&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangwxsoft&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://github-profile-trophy.vercel.app/?username=syy11cn&theme=flat&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=yangwxsoft&theme=flat&column=7&margin-w=10)
 
 </div>
 
